@@ -7,4 +7,4 @@ I have only included some build files (below), which are optimized for Oculus Qu
 Comfort and interactibility for the users were large priorities when designing.
 
 
-[Here](https://drive.google.com/drive/folders/1kctFEFA9m_POmdUNxXfX-SN6oU2FTWNu?usp=sharing) is the link to a Google Drive folder for the 2 builds.
+[Here](https://drive.google.com/drive/folders/1kctFEFA9m_POmdUNxXfX-SN6oU2FTWNu?usp=sharing) is the link to a Google Drive folder for the 2 builds. (VR/Non-VR)
